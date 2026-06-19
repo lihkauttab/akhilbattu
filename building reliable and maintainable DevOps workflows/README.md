@@ -14,6 +14,3 @@ DevOps is less about tools and more about engineering discipline and ownership
 Continuously improving systems, processes, and understanding — with a strong focus on reliability and long-term maintainability.
 #DevOps #CloudEngineering #AWS #InfrastructureAsCode #CI_CD #Docker #Terraform #Linux
 
-8 reactions8
-
-1 co
