@@ -2,6 +2,8 @@
 Proud to share a major hands-on project I completed: designing and deploying a highly available Employee Management REST API on AWS, fully automated end-to-end using GitLab CI/CD, CloudFormation, and best-practice cloud architecture.
 This wasn’t just about deploying an app — it was about building a reliable, secure, observable, fault-tolerant system, similar to what modern SaaS companies run in production.
 🧩 🔹 Project Highlights
+
+
 1️⃣ Infrastructure as Code (CloudFormation)
 Provisioned a complete production VPC:
 Multi-AZ Public & Private Subnets
